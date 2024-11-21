@@ -1,6 +1,7 @@
 # Paladin WA Pack
 
-![image](![image]((https://media.wago.io/screenshots/NIscKcN0e/673f01e1acb559f0e61eef4d.png))
+![image](https://github.com/user-attachments/assets/80ff1837-c9ba-4ce7-9b33-df609eb034ae)
+
 
 
 This pack contains WA layout for Paladin specs that I play
